@@ -1,0 +1,16 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "tokens": {
+    "ethereum": {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    },
+    "sepolia": {
+      "address": "0xeb0c2e842bb7c1789D04c09B33eBb893Ed23D2D2"
+    },
+    "ipollo-sepolia": {
+      "address": "0x9e0577FE71A18445ce65d7Fc220198b78e010ff9"
+    }
+  }
+}

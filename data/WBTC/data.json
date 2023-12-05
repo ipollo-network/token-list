@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "tokens": {
+    "ethereum":{
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+    },
+    "sepolia": {
+      "address": "0x477799e7856B53f7629F1d16e016DCddaf3FAdD1"
+    },
+    "ipollo-sepolia": {
+      "address": "0x2DBAADF59D3623D5086627eA8437F2db66d7bc7C"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "tokens": {
+    "ethereum": {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    },
+    "sepolia": {
+      "address": "0x73f70F0badf8448a65D1f000627B8A4c580eC891"
+    },
+    "ipollo-sepolia": {
+      "address": "00x7543c1B77987e267Ffe8F406c8fe1E284fFF51d4"
+    }
+  }
+}

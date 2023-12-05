@@ -1,0 +1,16 @@
+{
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "decimals": 18,
+  "tokens": {
+    "ethereum": {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    },
+    "sepolia": {
+      "address": "0x76af5264a5C7Df9089Db42a4d84Cf3ad0Cf6C93c"
+    },
+    "ipollo-sepolia": {
+      "address": "0x2a725895c424971F0a6548A9eB4eABdb0d4F0Db3"
+    }
+  }
+}
